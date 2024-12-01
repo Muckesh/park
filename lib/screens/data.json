@@ -1,0 +1,29 @@
+{
+    "parkingSlots": {
+      "0": {
+        "id": 0,
+        "slot_number": "A1",
+        "state": 1,
+        "left_or_right": "L"
+      },
+      "1": {
+        "id": 1,
+        "slot_number": "A2",
+        "state": 0,
+        "left_or_right": "R"
+      },
+      "2": {
+        "id": 2,
+        "slot_number": "A3",
+        "state": 1,
+        "left_or_right": "L"
+      },
+      "3": {
+        "id": 3,
+        "slot_number": "A4",
+        "state": 0,
+        "left_or_right": "R"
+      }
+    }
+  }
+  

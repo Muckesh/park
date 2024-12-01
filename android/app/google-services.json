@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773792054427",
+    "project_id": "park-d104c",
+    "storage_bucket": "park-d104c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773792054427:android:2717a00889429e3e175a3e",
+        "android_client_info": {
+          "package_name": "com.example.park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefqGyLHtomSK1MYCxjdXwcLNGXExsk5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
